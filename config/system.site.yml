@@ -1,0 +1,14 @@
+uuid: d6530f6a-46bc-4a50-a9fe-7b2d537766ed
+name: drops-8-composer-test
+mail: anthony.klose@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
